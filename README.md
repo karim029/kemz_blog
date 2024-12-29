@@ -1,6 +1,3 @@
-Here’s a sample `README.md` to showcase your website on GitHub:
-
-````markdown
 # The Kemz Blog
 
 The Kemz Blog is a simple blog website built with React that allows users to view, create, and delete blog posts. It provides a clean and user-friendly interface to interact with blog content, built using React Router for navigation, and a mock backend API for managing blog data.
@@ -28,7 +25,7 @@ To get started with this project locally:
    ```bash
    git clone https://github.com/yourusername/kemz-blog.git
    ```
-````
+
 
 2. Install the dependencies:
 
@@ -81,9 +78,8 @@ To get started with this project locally:
 
 ## Demo
 
-You can view the live demo of this project [here](#https://silly-treacle-ffaa86.netlify.app
+You can view the live demo of this project [here](https://silly-treacle-ffaa86.netlify.app)
 
-).
 
 ## Contributing
 
